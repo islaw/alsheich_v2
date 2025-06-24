@@ -1,0 +1,1 @@
+Transcribe all text from the images verbatim as a single block of text. Do not add, remove, or change anything.

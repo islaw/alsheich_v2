@@ -1,0 +1,8 @@
+Processor_Name,File_Name,Total_Pages,Status,Processing_Duration_s,Error_Details
+DocAI_b6de846d,protocol_sample_5_pages.pdf,,Failed,3.0,"Document AI API Error: NotFound: 404 Processor with id 'b6de846de5f991f8' not found. [reason: ""PROCESSOR_NOT_FOUND""
+domain: ""documentai.googleapis.com""
+metadata {
+  key: ""processor_id""
+  value: ""b6de846de5f991f8""
+}
+]"

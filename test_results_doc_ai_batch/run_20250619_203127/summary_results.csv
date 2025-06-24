@@ -1,0 +1,6 @@
+File_Name,Total_Pages,Status,Processing_Duration_s,Error_Details
+full_ground_truth_protocol.pdf,,Failed - Batch Process,49.46,"Document AI Batch API Error: InvalidArgument: 400 Request contains an invalid argument. [field_violations {
+  field: ""input_documents.gcs_documents.documents[0].mime_type""
+  description: ""MIME type must be supplied""
+}
+]"

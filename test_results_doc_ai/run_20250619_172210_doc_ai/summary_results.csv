@@ -1,0 +1,30 @@
+Processor_Name,File_Name,Total_Pages,Status,Processing_Duration_s,Error_Details
+DocAI_b6de846d,protocol_sample_5_pages.pdf,,Failed,3.48,"Document AI API Error: PermissionDenied: 403 Cloud Document AI API has not been used in project alsheich before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/documentai.googleapis.com/overview?project=alsheich then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry. [reason: ""SERVICE_DISABLED""
+domain: ""googleapis.com""
+metadata {
+  key: ""service""
+  value: ""documentai.googleapis.com""
+}
+metadata {
+  key: ""serviceTitle""
+  value: ""Cloud Document AI API""
+}
+metadata {
+  key: ""containerInfo""
+  value: ""alsheich""
+}
+metadata {
+  key: ""consumer""
+  value: ""projects/alsheich""
+}
+metadata {
+  key: ""activationUrl""
+  value: ""https://console.developers.google.com/apis/api/documentai.googleapis.com/overview?project=alsheich""
+}
+, locale: ""en-US""
+message: ""Cloud Document AI API has not been used in project alsheich before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/documentai.googleapis.com/overview?project=alsheich then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.""
+, links {
+  description: ""Google developers console API activation""
+  url: ""https://console.developers.google.com/apis/api/documentai.googleapis.com/overview?project=alsheich""
+}
+]"

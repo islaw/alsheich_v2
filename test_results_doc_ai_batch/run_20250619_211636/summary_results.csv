@@ -1,0 +1,2 @@
+File_Name,Total_Pages,Status,Processing_Duration_s,Error_Details
+full_ground_truth_protocol.pdf,,Failed - Batch Process,142.92,Document AI Batch API Error: InvalidArgument: 400 Failed to process all documents. 3: Failed to process all documents.

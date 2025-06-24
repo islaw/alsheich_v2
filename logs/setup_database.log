@@ -1,0 +1,6 @@
+2025-06-17 04:08:55,465 - INFO - Removed old database file at data/alsheich_project.db for a clean setup.
+2025-06-17 04:08:55,466 - INFO - Database connection established at data/alsheich_project.db
+2025-06-17 04:08:55,473 - INFO - Populating database with comprehensive witness and alias list...
+2025-06-17 04:08:55,487 - INFO - Initial witnesses and aliases populated or verified.
+2025-06-17 04:08:55,491 - INFO - Database setup complete.
+2025-06-17 04:08:55,491 - INFO - Database connection closed.

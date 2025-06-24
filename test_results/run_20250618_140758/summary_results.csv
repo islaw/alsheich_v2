@@ -1,0 +1,21 @@
+Model_Name,Page_Number,Status,Processing_Duration_s,Input_Tokens,Output_Tokens,Total_Tokens,Estimated_Cost_USD,Error_Details
+gemini-1.5-flash-latest,1,Success,12.49,1146,1163,2309,N/A,
+gemini-1.5-flash-latest,2,Success,8.8,1146,773,1919,N/A,
+gemini-1.5-flash-latest,3,Success,11.16,1146,1130,2276,N/A,
+gemini-1.5-flash-latest,4,Success,12.71,1146,1402,2548,N/A,
+gemini-1.5-flash-latest,5,Success,11.82,1146,1202,2348,N/A,
+gemini-1.5-pro-latest,1,Success,16.42,1146,1133,2279,N/A,
+gemini-1.5-pro-latest,2,Success,12.08,1146,766,1912,N/A,
+gemini-1.5-pro-latest,3,Success,13.51,1146,890,2036,N/A,
+gemini-1.5-pro-latest,4,Success,16.6,1146,1102,2248,N/A,
+gemini-1.5-pro-latest,5,Success,16.48,1146,1154,2300,N/A,
+gemini-pro-vision,1,Failed - API Error,3.58,N/A,N/A,N/A,N/A,"API Call Error: NotFound: 404 Gemini 1.0 Pro Vision has been deprecated on July 12, 2024. Consider switching to different model, for example gemini-1.5-flash."
+gemini-pro-vision,2,Failed - API Error,3.58,N/A,N/A,N/A,N/A,"API Call Error: NotFound: 404 Gemini 1.0 Pro Vision has been deprecated on July 12, 2024. Consider switching to different model, for example gemini-1.5-flash."
+gemini-pro-vision,3,Failed - API Error,2.89,N/A,N/A,N/A,N/A,"API Call Error: NotFound: 404 Gemini 1.0 Pro Vision has been deprecated on July 12, 2024. Consider switching to different model, for example gemini-1.5-flash."
+gemini-pro-vision,4,Failed - API Error,3.21,N/A,N/A,N/A,N/A,"API Call Error: NotFound: 404 Gemini 1.0 Pro Vision has been deprecated on July 12, 2024. Consider switching to different model, for example gemini-1.5-flash."
+gemini-pro-vision,5,Failed - API Error,3.58,N/A,N/A,N/A,N/A,"API Call Error: NotFound: 404 Gemini 1.0 Pro Vision has been deprecated on July 12, 2024. Consider switching to different model, for example gemini-1.5-flash."
+gemini-1.0-pro-vision-latest,1,Failed - API Error,3.72,N/A,N/A,N/A,N/A,"API Call Error: NotFound: 404 Gemini 1.0 Pro Vision has been deprecated on July 12, 2024. Consider switching to different model, for example gemini-1.5-flash."
+gemini-1.0-pro-vision-latest,2,Failed - API Error,3.34,N/A,N/A,N/A,N/A,"API Call Error: NotFound: 404 Gemini 1.0 Pro Vision has been deprecated on July 12, 2024. Consider switching to different model, for example gemini-1.5-flash."
+gemini-1.0-pro-vision-latest,3,Failed - API Error,3.3,N/A,N/A,N/A,N/A,"API Call Error: NotFound: 404 Gemini 1.0 Pro Vision has been deprecated on July 12, 2024. Consider switching to different model, for example gemini-1.5-flash."
+gemini-1.0-pro-vision-latest,4,Failed - API Error,3.3,N/A,N/A,N/A,N/A,"API Call Error: NotFound: 404 Gemini 1.0 Pro Vision has been deprecated on July 12, 2024. Consider switching to different model, for example gemini-1.5-flash."
+gemini-1.0-pro-vision-latest,5,Failed - API Error,3.58,N/A,N/A,N/A,N/A,"API Call Error: NotFound: 404 Gemini 1.0 Pro Vision has been deprecated on July 12, 2024. Consider switching to different model, for example gemini-1.5-flash."

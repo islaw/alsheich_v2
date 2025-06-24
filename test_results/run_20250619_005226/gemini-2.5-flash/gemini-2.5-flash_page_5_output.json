@@ -1,0 +1,140 @@
+{
+  "court_protocol": {
+    "header": {
+      "court_name": "בית המשפט המחוזי בירושלים",
+      "judges": [
+        "השופטת רבקה פרידמן – פלדמן",
+        "משה בר – עם",
+        "עודד שחם"
+      ],
+      "case_number": "ת\"פ 67104-01-20",
+      "parties": "מדינת ישראל נ' נתניהו ואח'",
+      "date": "08 מאי 2024"
+    },
+    "protocol_lines": [
+      {
+        "line_number": 1,
+        "speaker": "Attorney Amit Hadad",
+        "text": "בואי נשמור על כללים של חקירה ראשית בסדר? היתה נאמר בעדויות שאלה"
+      },
+      {
+        "line_number": 2,
+        "speaker": "Attorney Amit Hadad",
+        "text": "מדריכה משהו."
+      },
+      {
+        "line_number": 3,
+        "speaker": "Witness",
+        "text": "זאת חוברת לא קצרה שכוללת את כל הנושאים שאמרתי וכן כוללת נהלים"
+      },
+      {
+        "line_number": 4,
+        "speaker": "Witness",
+        "text": "נוספים, נהלי משרד וכל נושא אחר שמצאתי לנכון שחשוב לכלול בחוברת."
+      },
+      {
+        "line_number": 5,
+        "speaker": "Judge",
+        "text": "את זוכרת מתי החלטת הממשלה הזו?"
+      },
+      {
+        "line_number": 6,
+        "speaker": "Witness",
+        "text": "מ-2009."
+      },
+      {
+        "line_number": 7,
+        "speaker": "Judge",
+        "text": "אוקי. את המספר שלה, או שהגזמתן את מספר ההחלטה או שהגזמתי עם זה?"
+      },
+      {
+        "line_number": 8,
+        "speaker": "Attorney Amit Hadad",
+        "text": "את יכולה להגיד לה"
+      },
+      {
+        "line_number": 9,
+        "speaker": "Judge",
+        "text": "מספר 4431 זו ההחלטה?"
+      },
+      {
+        "line_number": 10,
+        "speaker": "Witness",
+        "text": "אינני זוכרת את המספר."
+      },
+      {
+        "line_number": 11,
+        "speaker": "Judge",
+        "text": "אני רוצה להציג לך שתי חוברות שסומנו בחקירה שלך הם גם גיל ראכליין/1 וגיל ראכליין/2"
+      },
+      {
+        "line_number": 12,
+        "speaker": "Hon. Judge R. Friedman-Feldman (Presiding Judge)",
+        "text": "אתם מגישים?"
+      },
+      {
+        "line_number": 13,
+        "speaker": "Judge",
+        "text": "אני רוצה להגיש את זה, כן"
+      },
+      {
+        "line_number": 14,
+        "speaker": "Attorney Amit Hadad",
+        "text": "זה הוגש לא?"
+      },
+      {
+        "line_number": 15,
+        "speaker": "Judge",
+        "text": "לא, זה לא הוגש."
+      },
+      {
+        "line_number": 16,
+        "speaker": "Hon. Judge R. Friedman-Feldman (Presiding Judge)",
+        "text": "זה מסומן כבר?"
+      },
+      {
+        "line_number": 17,
+        "speaker": "Judge",
+        "text": "ת/1439 זה הסימון."
+      },
+      {
+        "line_number": 18,
+        "speaker": "Hon. Judge R. Friedman-Feldman (Presiding Judge)",
+        "text": "תודה רבה."
+      },
+      {
+        "line_number": 19,
+        "speaker": "Judge",
+        "text": "שלומית אם את יכולה בבקשה להסביר מה זו החוברת הזאת? מי ערך אותה ואיך זה קשור"
+      },
+      {
+        "line_number": 20,
+        "speaker": "Judge",
+        "text": "למה שסיפרת קודם?"
+      },
+      {
+        "line_number": 21,
+        "speaker": "Witness",
+        "text": "אוקי. זוהי חוברת שהלשכה המשפטית הכינה, אני הגשתי אותה שמרכזת את הנושאים"
+      },
+      {
+        "line_number": 22,
+        "speaker": "Witness",
+        "text": "שהחלטת הממשלה דורשת לכלול בנוהל העברת תפקיד בעת חילופי שרים ובעת כינון ממשלה"
+      },
+      {
+        "line_number": 23,
+        "speaker": "Witness",
+        "text": "חדשה וכן נושאים נוספים שמצאתי לנכון לכלול ואנחנו רואים כאן לפי תוכן העניינים את"
+      },
+      {
+        "line_number": 24,
+        "speaker": "Witness",
+        "text": "הפירוט של הנושאים שמופיעים בתוך החוברת."
+      }
+    ],
+    "footer": {
+      "page_number": "40097"
+    }
+  }
+}

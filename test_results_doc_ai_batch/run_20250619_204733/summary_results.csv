@@ -1,0 +1,30 @@
+File_Name,Total_Pages,Status,Processing_Duration_s,Error_Details
+full_ground_truth_protocol.pdf,,Failed - Batch Process,4.82,"Document AI Batch API Error: PermissionDenied: 403 Cloud Document AI API has not been used in project affable-sky-447509-g8 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/documentai.googleapis.com/overview?project=affable-sky-447509-g8 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry. [reason: ""SERVICE_DISABLED""
+domain: ""googleapis.com""
+metadata {
+  key: ""service""
+  value: ""documentai.googleapis.com""
+}
+metadata {
+  key: ""serviceTitle""
+  value: ""Cloud Document AI API""
+}
+metadata {
+  key: ""containerInfo""
+  value: ""affable-sky-447509-g8""
+}
+metadata {
+  key: ""consumer""
+  value: ""projects/affable-sky-447509-g8""
+}
+metadata {
+  key: ""activationUrl""
+  value: ""https://console.developers.google.com/apis/api/documentai.googleapis.com/overview?project=affable-sky-447509-g8""
+}
+, locale: ""en-US""
+message: ""Cloud Document AI API has not been used in project affable-sky-447509-g8 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/documentai.googleapis.com/overview?project=affable-sky-447509-g8 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.""
+, links {
+  description: ""Google developers console API activation""
+  url: ""https://console.developers.google.com/apis/api/documentai.googleapis.com/overview?project=affable-sky-447509-g8""
+}
+]"

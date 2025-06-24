@@ -1,0 +1,12 @@
+Processor_Name,File_Name,Total_Pages,Status,Processing_Duration_s,Error_Details
+DocAI_efb92619,full_ground_truth_protocol.pdf,,Failed,49.85,"Document AI API Error: InvalidArgument: 400 Document pages exceed the limit: 30 got 169 [reason: ""PAGE_LIMIT_EXCEEDED""
+domain: ""documentai.googleapis.com""
+metadata {
+  key: ""pages""
+  value: ""169""
+}
+metadata {
+  key: ""page_limit""
+  value: ""30""
+}
+]"

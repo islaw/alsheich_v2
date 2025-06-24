@@ -1,0 +1,167 @@
+{
+  "court_protocol": {
+    "header": {
+      "court_name": "בית המשפט המחוזי בירושלים",
+      "judges": [
+        "השופטת רבקה פרידמן – פלדמן",
+        "משה בר – עם",
+        "עודד שחם"
+      ],
+      "case_number": "ת\"פ 67104-01-20",
+      "protocol_date": "08 מאי 2024"
+    },
+    "parties": {
+      "prosecution": {
+        "name": "מדינת ישראל"
+      },
+      "defendants": [
+        {
+          "id": null,
+          "name": "בנימין נתניהו"
+        },
+        {
+          "id": "042089367",
+          "name": "שאול אלוביץ'"
+        },
+        {
+          "id": "056381353",
+          "name": "איריס אלוביץ'"
+        },
+        {
+          "id": "051659159",
+          "name": "ארנון מוזס"
+        }
+      ]
+    },
+    "attendees": {
+      "prosecution_representatives": [
+        {
+          "role": "עו\"ד",
+          "name": "אלון גילדין"
+        },
+        {
+          "role": "עו\"ד",
+          "name": "טפת מויאל – רוטשילד"
+        },
+        {
+          "role": "עו\"ד",
+          "name": "נועם הירש"
+        },
+        {
+          "role": "עו\"ד",
+          "name": "ניצן וולקן"
+        }
+      ],
+      "defendant_representatives": [
+        {
+          "defendant_id_ref": "1",
+          "role": "ב\"כ נאשם",
+          "name": "עמית חדד"
+        },
+        {
+          "defendant_id_ref": "1",
+          "role": "ב\"כ נאשם",
+          "name": "נועה וולנרמן"
+        },
+        {
+          "defendant_id_ref": "2 ו-3",
+          "role": "ב\"כ נאשמים",
+          "name": "נועה פיירר"
+        },
+        {
+          "defendant_id_ref": "4",
+          "role": "ב\"כ נאשם",
+          "name": "נורית נגב"
+        }
+      ]
+    },
+    "protocol_details": {
+      "is_recorded": true,
+      "testimonies": [
+        {
+          "witness_id": "118",
+          "witness_name": "שלומית ברנע-פרגו",
+          "witness_role": "עו\"ד"
+        }
+      ],
+      "exhibits_submitted": [
+        {
+          "number": "ת/1438",
+          "description": null
+        },
+        {
+          "number": "ת/1439",
+          "description": null
+        },
+        {
+          "number": "ת/1440",
+          "description": null
+        },
+        {
+          "number": "ת/1441",
+          "description": null
+        },
+        {
+          "number": "ת/1442",
+          "description": "(סומן גם נ/2924)"
+        }
+      ],
+      "documents_submitted": [
+        {
+          "number": "ת/1438",
+          "description": "דיסק מחקרי תקשורת שהוגש ביום 6.5.2023 ונשאר בידי המאשימה, הוחזר לבית המשפט."
+        },
+        {
+          "number": "נ/3782",
+          "description": null
+        },
+        {
+          "number": "נ/3783",
+          "description": null
+        },
+        {
+          "number": "נ/3784",
+          "description": null
+        }
+      ]
+    },
+    "decision": {
+      "preamble": "בהמשך לדיון שהתקיים היום לגבי שמיעת העדים הנותרים, להלן פרטי פרשת התביעה, בהתחשב באילוצי העדים וב\"כ הצדדים:",
+      "rulings": [
+        {
+          "number": 1,
+          "text": "הדיון הבא קבוע ביום 21.5.2024, בשעה 09:00, לשמיעת עדותו של ע\"ד 118 השר יריב לוין.",
+          "type": "scheduling",
+          "details": {
+            "date": "21.5.2024",
+            "time": "09:00",
+            "purpose": "שמיעת עדות",
+            "witness": "ע\"ד 118 השר יריב לוין"
+          }
+        },
+        {
+          "number": 2,
+          "text": "הדיון הקבוע ביום 22.5.2024 מבוטל, בהיעדר עדים פנויים לעדות באותו יום.",
+          "type": "cancellation",
+          "details": {
+            "date": "22.5.2024",
+            "reason": "היעדר עדים פנויים לעדות באותו יום"
+          }
+        },
+        {
+          "number": 3,
+          "text": "הדיונים הקבועים ב- 27.5.2024, 28.5.2024 ו- 29.5.2024, מבוטלים בשל אילוצים של ב\"כ הצדדים והעדים.",
+          "type": "cancellation",
+          "details": {
+            "dates": [
+              "27.5.2024",
+              "28.5.2024",
+              "29.5.2024"
+            ],
+            "reason": "אילוצים של ב\"כ הצדדים והעדים"
+          }
+        }
+      ]
+    }
+  }
+}
